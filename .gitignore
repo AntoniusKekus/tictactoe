@@ -5,3 +5,7 @@ TicTacToe/.vs/TicTacToe/v15/Server/sqlite3/storage.ide-wal
 *.ide-wal
 *.ide-shm
 TicTacToe/.vs/TicTacToe/v15/.suo
+*.cache
+*.ide-shm
+TicTacToe/.vs/TicTacToe/v15/Server/sqlite3/storage.ide-wal
+TicTacToe/.vs/TicTacToe/v15/.suo
