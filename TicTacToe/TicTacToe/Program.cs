@@ -11,7 +11,8 @@ namespace TicTacToe
         static void Main(string[] args)
         {
             //das hier ist die Main-Klasse, die aufgerufen wird, wenn man das Programm startet
-
+            Console.WriteLine("test123");
+            Console.ReadLine();
         }
     }
 }
